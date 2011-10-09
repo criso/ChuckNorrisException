@@ -1,6 +1,6 @@
 # ChuckNorrisException
 
-When in doubt, throw a [ChuckNorrisException](http://criso.github.com/chucknorrisexception/)!
+When in doubt, throw a [ChuckNorrisException](http://criso.github.com/ChuckNorrisException/)!
 
 ![GitHub Logo](https://github.com/criso/ChuckNorrisException/blob/master/Chuck_Norris_Jedi_Master.jpg?raw=true)
 
