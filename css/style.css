@@ -1,0 +1,97 @@
+@import url(http://fonts.googleapis.com/css?family=Changa+One);
+
+
+body {
+  padding: 0px 80px;
+  margin: 0;
+  font: 14px/1.5 "Helvetica Neue", Helvetica, sans-serif;
+  /* background-color:  #FFF; */
+  text-align: center;
+
+  background: #C44032;
+  font-size: 100%;
+}
+
+
+h1 {
+  text-align: center;
+  text-indent: -.12em;
+  color: #F4F1DE;
+  font: 130px "Changa One", "Impact", sans-serif;
+  font-weight: 900;
+  display: inline-block;
+  margin: 0 auto;
+  line-height: 1;
+  width: 100%;
+  text-shadow: #863027 .01em .01em 0, #863027 .02em .02em 0, #863027 .03em .03em 0, #863027 .04em .04em 0, #863027 .05em .05em 0, #863027 .06em .06em 0, #863027 .07em .07em 0, #863027 .08em .08em 0, #863027 .09em .09em 0, #863027 .1em .1em 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+
+
+h2 {
+  padding: 30px 0px 0px;
+}
+
+p:nth-child(2) {
+  text-align: center;
+}
+
+  p:nth-child(2) img {
+    -webkit-box-shadow: 0px 5px 5px 1px #CCC;
+    border: 1px solid #DDD;
+  }
+
+
+#content {
+  margin: 0 auto;
+  padding: 130px 40px 50px 40px;
+  text-align: left;
+  background: white;
+  width: 870px;
+  -webkit-box-shadow: 0px 10px 10px 1px #444;
+}
+
+
+
+p code {
+  border: 1px solid #ECEA75;
+  padding: 1px 3px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  background: #FDFCD1;
+}
+
+pre {
+  padding: 20px 25px;
+	border: 1px dashed #E6EBE0;
+	-moz-box-shadow: 0 0px 15px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0 0px 15px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 0px 15px rgba(0, 0, 0, 0.5);
+	text-shadow: 0 -1px 1px #262626;
+  background-color: #262626;
+  font-family: 'Bitstream Vera Sans Mono', 'DejaVu Sans Mono', 'Monaco', Courier, monospace !important;
+	color: #EBEFE7;
+}
+
+
+code .string, 
+code .regexp {
+  color: #B5C587;
+}
+
+code .keyword {
+  color: #C2A770;
+  font-weight: normal;
+}
+
+code .number {
+  color: #A33D29;
+}
+
+code .comment {
+  color: rgba(255, 255, 255, 0.5);
+}
