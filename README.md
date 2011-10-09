@@ -2,6 +2,9 @@
 
 When in doubt, throw a [ChuckNorrisException](http://criso.github.com/chucknorrisexception/)!
 
+![GitHub Logo](./Chuck_Norris_Jedi_Master.jpg)
+Format: ![Alt Text](url)
+
 ## Installation via npm
 
     $ npm install ChuckNorrisException
