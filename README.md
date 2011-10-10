@@ -1,6 +1,7 @@
 # ChuckNorrisException
 
-When in doubt, throw a [ChuckNorrisException](http://criso.github.com/ChuckNorrisException/)!
+This will throw an un-catchable error and make your code fail in style!  
+When in doubt, __throw__ a [ChuckNorrisException](http://criso.github.com/ChuckNorrisException/)!
 
 ![GitHub Logo](https://github.com/criso/ChuckNorrisException/blob/master/Chuck_Norris_Jedi_Master.jpg?raw=true)
 
