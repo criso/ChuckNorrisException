@@ -1,5 +1,6 @@
 # ChuckNorrisException
 
+## This will throw an __un-catchable__ error and make your code fail in style!  
 
 ![Chuck Norris](https://github.com/criso/ChuckNorrisException/blob/master/Chuck_Norris_Jedi_Master.jpg?raw=true)
 
