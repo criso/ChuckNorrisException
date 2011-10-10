@@ -35,11 +35,11 @@ h2 {
   padding: 30px 0px 0px;
 }
 
-p:nth-child(2) {
+p:nth-child(3) {
   text-align: center;
 }
 
-  p:nth-child(2) img {
+  p:nth-child(3) img {
     -webkit-box-shadow: 0px 5px 5px 1px #CCC;
     border: 1px solid #DDD;
   }
