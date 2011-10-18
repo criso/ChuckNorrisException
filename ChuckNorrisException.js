@@ -21,6 +21,9 @@ function ChuckNorrisException(msg) {
   msg = msg || "";
   if (!ChuckNorrisException.thrown) {
     ChuckNorrisException.thrown = true;
+
+    process.removeAllListeners('uncaughtException');
+
     process.nextTick(function(){
       ChuckNorrisException.thrown = false;
       throw new Error(chuckMessage + "\n" + colorize(msg, "yellow"));

@@ -2,7 +2,7 @@
   "author": "Cristiano Oliveira <ocean.cris@gmail.com>",
   "name": "ChuckNorrisException",
   "description": "When in doubt, throw a ChuckNorrisException",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "url": "https://github.com/criso/chucknorrisexception"
   },
