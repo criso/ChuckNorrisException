@@ -22,10 +22,9 @@ function ChuckNorrisException(msg) {
   if (!ChuckNorrisException.thrown) {
     ChuckNorrisException.thrown = true;
 
-    process.removeAllListeners('uncaughtException');
-
     process.nextTick(function(){
       ChuckNorrisException.thrown = false;
+      process.removeAllListeners('uncaughtException');
       throw new Error(chuckMessage + "\n" + colorize(msg, "yellow"));
     });
   }
