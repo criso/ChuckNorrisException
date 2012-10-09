@@ -3,6 +3,7 @@
   "name": "ChuckNorrisException",
   "description": "When in doubt, throw a ChuckNorrisException",
   "version": "0.1.1",
+  "main": "ChuckNorrisException",
   "repository": {
     "url": "https://github.com/criso/chucknorrisexception"
   },
