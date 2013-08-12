@@ -29,7 +29,7 @@ terminate your program.
 
 Why? Because, you don't throw Chuck Norris.. Chuck Norris throws __YOU__!
 
-These handy errors will be shown if such foolishness is atempted
+These handy errors will be shown if such foolishness is attempted
 
 * You cannot throw Chuck Norris... Chuck Norris, throws YOU!
 * Chuck Norris wrote Hello World once... it was called Unix
@@ -37,7 +37,7 @@ These handy errors will be shown if such foolishness is atempted
 
 
 ## What we've learned here today
-__You cannot catch a ChuckNorrisExecption__
+__You cannot catch a ChuckNorrisException__
 
 ## License
 
