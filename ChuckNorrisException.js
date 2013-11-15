@@ -14,7 +14,7 @@ var messages = [
   , "Chuck Norris will asynchronously KICK YOUR ASS"
 ];
 
-var errMessage   = messages[Math.floor(Math.random()* messages.length+1)]
+var errMessage   = messages[Math.floor(Math.random()* messages.length)]
   , chuckMessage = colorize( colorize(errMessage, "red"), "inverse");
 
 function ChuckNorrisException(msg) {
